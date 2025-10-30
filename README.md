@@ -2,7 +2,7 @@ Sales Analysis Dashboard
 This project features a dynamic and comprehensive sales analysis dashboard built to provide a 360-degree view of a superstore's performance. The dashboard tracks key metrics, analyzes trends over time, and breaks down sales data by category, segment, and region to deliver actionable business insights.
 
 📊 Dashboard Preview
-
+![Alt Img](https://github.com/codevinay1/Sales-Performance-Analysis/blob/332ed453c2f5fa5c42c186aee9021bade3a4176c/preview.jpg)
 
 🚀 Project Objective
 The primary goal of this dashboard is to empower decision-makers by transforming raw sales data into an interactive analytical tool. It allows for the identification of top-performing products, profitable categories, and key customer segments, while also highlighting areas for operational improvement and strategic growth.
